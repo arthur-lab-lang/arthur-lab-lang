@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá 👋 😎
 
-<!--
-**arthur-lab-lang/arthur-lab-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Arthur.
 
-Here are some ideas to get you started:
+Atualmente estudo:
+- Python
+- lógica de programação
+- desenvolvimento web
+- IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+- Evoluir como desenvolvedor
+- Trabalhar remotamente
+- Construir projetos reais
+- Crescer na área de T.I
+
+## Tecnologias
+- Python
+- HTML
+- CSS
+- Git/GitHub
